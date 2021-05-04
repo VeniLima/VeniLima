@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeniLima, and I'm currently studying analysis and systems development at FATEC
 - 👀 I’m interested in Web development, front and back-end
-- 🌱 I’m currently learning TypeScript, JavaScript, HTML, CSS, ReactJS and NextJS.
+- 🌱 I’m currently learning TypeScript, JavaScript, HTML, CSS, ReactJS, NextJS and NodeJS.
 - 📫 How to reach me: Vinicius.lima.brasil1@gmail.com
 
 <!---
