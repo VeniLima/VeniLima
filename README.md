@@ -1,5 +1,6 @@
 ## Olá, meu nome é Vinicius Lima, desenvolvedor apaixonado por tecnologia!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeniLima)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
