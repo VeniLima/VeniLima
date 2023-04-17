@@ -1,7 +1,7 @@
 ## Olá, meu nome é Vinicius Lima, desenvolvedor apaixonado por tecnologia!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeniLima&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeniLima&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeniLima&theme=transparent&hide=css,ejs,scss)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div style="display: inline_block"><br>
